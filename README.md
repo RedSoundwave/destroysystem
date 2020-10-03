@@ -12,3 +12,7 @@
 [![Vk](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/evil_soundwave)
 [![Codewars](https://img.shields.io/badge/-Codewars-090909?style=for-the-badge&logo=codewars&logoColor=darkred)](https://www.codewars.com/users/System_Destroyer)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=red)](https://t.me/evil_soundwave)
+
+[![DestroySystem](https://github-readme-stats.vercel.app/api?username=destroysystem&theme=tokyonight&show_icons=true)](https://github.com/DestroySystem/github-readme-stats)
+[![Codewars](https://github-readme-stats.vercel.app/api/pin/?username=destroysystem&repo=codewars&theme=tokyonight)](https://github.com/DestroySystem/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=destroysystem&layout=compact&theme=tokyonight)](https://github.com/DestroySystem/github-readme-stats)
