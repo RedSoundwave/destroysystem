@@ -15,4 +15,3 @@
 
 [![DestroySystem](https://github-readme-stats.vercel.app/api?username=destroysystem&theme=tokyonight&show_icons=true)](https://github.com/DestroySystem)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=destroysystem&layout=compact&theme=tokyonight)](https://github.com/DestroySystem)
-[![Codewars](https://github-readme-stats.vercel.app/api/pin/?username=destroysystem&repo=codewars&theme=tokyonight)](https://github.com/DestroySystem/Codewars)
