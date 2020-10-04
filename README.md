@@ -1,5 +1,5 @@
 
-## Hi, I am Igor and I`m a student at Technical Univercity of Moldova.
+## Hi, I am Igor and I`m a student at Technical University of Moldova.
 
 ### Language and Tools 
 ![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white")
