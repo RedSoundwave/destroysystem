@@ -1,8 +1,9 @@
 
-## Hi, I am Igor and I`m a student at Technical University of Moldova.
+## Hi, I am Igor and I`m graduated at Technical University of Moldova. Also a beginer .Net
 
 ### Language and Tools 
 ![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white")
+![.NET](https://img.shields.io/badge/-.NET-orange")
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white")
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/-MySQL-gray?style=for-the-badge&logo=mysql&logoColor=blue)
