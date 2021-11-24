@@ -1,5 +1,5 @@
 
-## Hi, I am Igor and I`m graduated at Technical University of Moldova. Also a beginer .Net developer.
+## Junior .Net Developer.
 
 ### Language and Tools 
 ![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white")
